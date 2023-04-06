@@ -22,7 +22,7 @@ public class guia2Ejercicio2 {
         String frase = leer.nextLine();
         frase = frase.toLowerCase();
         if (frase.equals("eureka")){
-            System.out.println("Correcto");
+            System.out.println("Correcto!!!");
         }
         else {
             System.out.println("Lo siento, incorrecto");
